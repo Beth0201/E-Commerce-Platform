@@ -9,6 +9,13 @@ const productsData = [
         price: 45.99,
         description: "Premium white maize meal for traditional pap, 5kg bag",
         icon: "🌾"
+    },{
+        id: 1,
+        name: "Bakkie",
+        category: "Transport",
+        price: 45.99,
+        description: "Need transport, we got you covered",
+        icon: "🛻"
     },
     {
         id: 2,
